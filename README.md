@@ -1,4 +1,4 @@
-# US Bike Share Data (Udacity Python Foundation Nanodegree Project)
+# US Bike Share Data
 
 ## Table of contents
 * Introduction
